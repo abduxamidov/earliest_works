@@ -1,2 +1,2 @@
-# earliest_works
-these are my earliest works
+# python-lessons
+Bu mening dastlabki mashgulotlarim.
